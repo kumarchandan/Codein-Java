@@ -1,6 +1,6 @@
-# ✍️ Codin-Java
+# ✍️ Javascript Concepts
 
-`100 days of coding`, `java`, `algorithms`, `data structures`, `dynamic programming`
+`100 days of coding`, `javascript`
 
 ✨ Summary
 ---
